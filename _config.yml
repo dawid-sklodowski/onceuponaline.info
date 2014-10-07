@@ -3,7 +3,7 @@ title: Once upon a line
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another developer's blog
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "onceuponaline.info" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: DawidSklodowski
 github_username:  dawid-sklodowski
