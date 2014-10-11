@@ -13,7 +13,7 @@ Another important factor is their flexibility to change color and ability to sca
 Trying other colors for image-based buttons means changing colors of corresponding gradient-images,
 what surely is a time-consuming process. 
 
-![buttons](/images/2013-05-01/buttons.png)
+![buttons](/images/2012-02-27/buttons.png)
 
 <!--more-->
 
